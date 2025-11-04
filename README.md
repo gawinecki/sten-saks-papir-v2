@@ -2,4 +2,5 @@
 
 Dette er en forbedret version af [mit tidligere sten-saks-papir-projekt](https://github.com/gawinecki/sten-saks-papir).
 
-Her har jeg tilføjet enum og switch, og strukturen er blevet mere robust.
+Bruger enum og switch i stedet for mange if/else
+Modulære funktioner (print_hand(), hand_of_char())
